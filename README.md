@@ -1,4 +1,6 @@
-# 👋 Ciao, sono Alessio Sanna
+# <p align="center">
+  <img src="alessio-sanna-neon-outline.svg" alt="Alessio Sanna" width="800">
+</p>
 
 **Full-stack Developer** • Italia  
 Trasformo idee in applicazioni web **belle, veloci e funzionanti**.  
