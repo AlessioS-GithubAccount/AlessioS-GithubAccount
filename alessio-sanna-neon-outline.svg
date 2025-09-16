@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="220" viewBox="0 0 1400 220">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="50%" y="57%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Poppins, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="120" font-weight="700" fill="none" stroke="#1E90FF" stroke-width="3"
+        filter="url(#glow)" letter-spacing="2">
+    Alessio Sanna
+  </text>
+</svg>
