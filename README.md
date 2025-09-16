@@ -23,14 +23,6 @@ Amo la creatività del codice, la musica elettronica e lo sport.
 
 ---
 
-## 📊 GitHub Stats
-<!-- Personalizza il tema tra: radical, dark, merko, gruvbox, etc. -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioS-GithubAccount&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioS-GithubAccount&layout=compact&theme=radical)
-
----
-
 ## 🛠️ Tech & Tools
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
